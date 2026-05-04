@@ -111,3 +111,22 @@ anthropic.com
 www.anthropic.com
 api.anthropic.com
 statsig.anthropic.com
+
+# Filmix
+filmix.my
+filmix.ac
+filmix.biz
+filmix.co
+filmix.day
+filmix.fm
+filmix.la
+filmix.life
+filmix.me
+filmix.name
+filmix.net
+filmix.org
+filmix.pub
+filmix.site
+filmix.space
+filmix.to
+filmix.vc
