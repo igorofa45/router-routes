@@ -11,6 +11,17 @@ clients2.google.com
 clients3.google.com
 clients4.google.com
 
+clashroyale.com
+clashroyaleapp.com
+supercell.com
+supercell.net
+supercellgames.com
+id.supercell.com
+account.supercell.com
+store.supercell.com
+helpshift.com
+supercell.helpshift.com
+
 chatgpt.com
 openai.com
 oaistatic.com
